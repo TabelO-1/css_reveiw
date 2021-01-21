@@ -13,12 +13,22 @@
   
   #top-left {
     background: red;
-    top: 0;
-    left: 0;
+    top: 10px;
+    left: 10px;
   }
   
   #top-right {
     background: green;
-    top: 0;
-    right: 0;
+    top: 10px;
+    right: 10px;
+  }
+  #bottom-right {
+    background: purple;
+    bottom: 10px;
+    right: 10px;
+  }
+  #bottom-left {
+    background: black;
+    bottom: 10px;
+    left: 10px;
   }
